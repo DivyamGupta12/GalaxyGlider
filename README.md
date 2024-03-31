@@ -11,10 +11,9 @@ Within the platform, users not only have the freedom to book individual rides bu
   1) Java
   2) FireBase Authentication
   3) FireBase Realtime Database
-  4) Razorpay Payment
-  5) Glide Library
-  6) Material UI
-  7) Retrofit Library 
+  4) Glide Library
+  5) Material UI
+  6) Retrofit Library 
 
 
 
